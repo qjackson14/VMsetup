@@ -2,7 +2,7 @@
 
 </p>
 
-<h1>Creating of Virtual Machines (Azure)</h1>
+<h1>Creating Virtual Machines (Azure)</h1>
 This tutorial outlines the implementation of Azure Virtual Machines.<br />
 
 
