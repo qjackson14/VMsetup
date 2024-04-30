@@ -15,3 +15,21 @@ This tutorial outlines the implementation of Azure Virtual Machines.<br />
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10 (21H2)
+
+<h2>High-Level Deployment and Configuration Steps</h2>
+
+- Setup Environment Azure VMs (VM1&2)
+
+<h2>Deployment and Configuration Steps</h2>
+
+<p>
+
+</p>
+<p>
+Setup environment in Azure (DC-1 & Client-1) 
+</p>
+<br />
