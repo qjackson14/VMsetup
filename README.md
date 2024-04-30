@@ -26,20 +26,3 @@ This tutorial outlines the implementation of Azure Virtual Machines.<br />
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-
-
-</p>
-
-<p>
-Setup environment in Azure (DC-1 & Client-1) 
-</p>
-<br />
-
-<p>
-<img width="684" alt="vms" src="(https://github.com/qjackson14/VMsetup/assets/156969011/304b5850-662a-414b-ab1f-28ffeffede37)b">
-</p>
-<p>
-Create Virtual Machines
-</p>
-<br />
