@@ -10,3 +10,8 @@ This tutorial outlines the implementation of Azure Virtual Machines.<br />
 
 - ### [YouTube: How to create Virtual Machines in Microsoft Azure](https://www.youtube.com/watch?v=rkXTDhRLm60)
 
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
