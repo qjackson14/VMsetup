@@ -28,4 +28,28 @@ This tutorial outlines the implementation of Azure Virtual Machines.<br />
 
 ![vm](https://github.com/qjackson14/VMsetup/assets/156969011/c13068f4-0b96-40c5-9d44-1968ff60b802)
 
+<p>
+Open portal.azure.com -> Select Virtual Machines
+</p>
+<br />
 
+![vmname](https://github.com/qjackson14/VMsetup/assets/156969011/a242117f-7d8b-444d-a059-a28dbf72f6b5)
+
+<p>
+Setup Resource Group/VM name/Location/Operating System/Size/Username & Password
+</p>
+<br />
+
+![reviewcreate](https://github.com/qjackson14/VMsetup/assets/156969011/dd18ee29-41b6-4d3d-a656-37652e18e9f1)
+
+<p>
+Click Review + create
+</p>
+<br />
+
+![deployment](https://github.com/qjackson14/VMsetup/assets/156969011/339199e7-611e-4c87-901e-987eba87d180)
+
+<p>
+Click Create & wait for VM to deploy.
+</p>
+<br />
