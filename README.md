@@ -26,3 +26,6 @@ This tutorial outlines the implementation of Azure Virtual Machines.<br />
 
 <h2>Deployment and Configuration Steps</h2>
 
+![vm](https://github.com/qjackson14/VMsetup/assets/156969011/c13068f4-0b96-40c5-9d44-1968ff60b802)
+
+
