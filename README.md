@@ -24,6 +24,11 @@ This tutorial outlines the implementation of Azure Virtual Machines.<br />
 
 - Setup Environment Azure VMs (VM1&2)
 
+<h2>What Are Virtual Machines & Why They Are Helpful:</h2>
+
+Virtual machines (VMs) are software-based simulations of physical computers that run operating systems and applications just like a real computer. They operate within a host system using virtualization software, allowing multiple VMs to run on a single physical machine simultaneously. VMs are helpful because they provide a flexible, cost-effective way to utilize computing resources, enabling the consolidation of workloads and reducing the need for physical hardware. They are ideal for testing and development environments, as they allow for easy creation, modification, and deletion without impacting the underlying physical system. Additionally, VMs enhance disaster recovery and backup strategies by enabling quick replication and recovery of entire systems.
+
+
 <h2>Deployment and Configuration Steps</h2>
 
 ![vm](https://github.com/qjackson14/VMsetup/assets/156969011/c13068f4-0b96-40c5-9d44-1968ff60b802)
